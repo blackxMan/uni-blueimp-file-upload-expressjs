@@ -1,7 +1,7 @@
-# Blueimp file upload with unique id for Express js, thnks to Arvind Ravulavaru.
+# Blueimp file upload with unique id for Express js.
 
 ## History
-The code was forked from [blueimp-file-upload-expressjs](https://www.npmjs.com/package/blueimp-file-upload-expressjs) to support the unique id name for the uploaded file.
+The code was forked from [blueimp-file-upload-expressjs](https://www.npmjs.com/package/blueimp-file-upload-expressjs) to support the unique id name for the uploaded file, thnks to [Arvind Ravulavaru](https://www.npmjs.com/~arvindr21).
 
 Although this code was initially meant for educational purposes, enhancements were made. Users can additionally:
 
